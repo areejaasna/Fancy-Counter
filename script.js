@@ -67,7 +67,7 @@ function  incrementCounter(){
           counterEle.classList.add('counter--limit');
 
           //update the counter title 
-          counterTitleEle.innerHTML = 'Limit! Buy <b> Pro </b> for > 5'
+          counterTitleEle.innerHTML = 'Limit! Buy <b> Pro </b> for >5'
 
           //disable both increase and decrease button
           increaseButtonEle.disabled = true;
